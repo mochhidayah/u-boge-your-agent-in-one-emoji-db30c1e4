@@ -1,0 +1,3 @@
+# Jablud's scratch: local smoke-test output never ships.
+output/
+node_modules/
